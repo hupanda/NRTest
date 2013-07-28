@@ -7,12 +7,17 @@
 //
 
 #include <iostream>
+#include "adapt.h"
+using namespace std;
 
 int main(int argc, const char * argv[])
 {
 
     // insert code here...
-    std::cout << "Hello, World!\n";
+    char xx;
+    cout << "Hello, World!\n";
+    cin >> xx;
+    cout << xx;
     return 0;
 }
 

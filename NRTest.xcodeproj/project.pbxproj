@@ -28,6 +28,7 @@
 		A576850E17A55104003C983E /* NRTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = NRTest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A576851117A55104003C983E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		A576851317A55104003C983E /* NRTest.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = NRTest.1; sourceTree = "<group>"; };
+		A576851A17A551CE003C983E /* adapt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = adapt.h; path = ../../NR_C301/code/adapt.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 		A576851017A55104003C983E /* NRTest */ = {
 			isa = PBXGroup;
 			children = (
+				A576851A17A551CE003C983E /* adapt.h */,
 				A576851117A55104003C983E /* main.cpp */,
 				A576851317A55104003C983E /* NRTest.1 */,
 			);
